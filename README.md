@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Arthur</h1>
 <h3 align="center">An enthusiast in web developing</h3>
 
+- 🔭 I’m currently working on [Online-shop](https://github.com/qewaru/bebxshop) and [DotaTrack App](https://github.com/qewaru/dotatrack)
+
 - 🌱 I’m currently learning **React, PHP**
 
 - 📫 How to reach me **shaitsans16@gmial.com**
