@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Arthur</h1>
-<h3 align="center">An enthusiast in web developing</h3>
+<h3 align="center">An enthusiast in web development</h3>
 
 - 🔭 I’m currently working on [ChatMe](https://github.com/qewaru/chatme)
 
