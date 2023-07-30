@@ -5,7 +5,7 @@
 
 - ✨ My finished projects are [Online-shop](https://github.com/qewaru/bebxshop) and [DotaTrack App](https://github.com/qewaru/dotatrack)
 
-- 🌱 I’m currently learning **React, PHP**
+- 🌱 I’m currently learning **Next.js, PHP**
 
 - 📫 How to reach me **shaitsans16@gmail.com**
 
