@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Arthur</h1>
 <h3 align="center">An enthusiast in web development</h3>
 
-- 🔭 I’m currently working on [ChatMe](https://github.com/qewaru/chatme)
+- 🔭 I’m currently working on [ITKBroke](https://github.com/qewaru/itkbroke)
 
-- ✨ My finished projects are [Online-shop](https://github.com/qewaru/bebxshop) and [DotaTrack App](https://github.com/qewaru/dotatrack)
+- ✨ My finished projects are [ChatME](https://github.com/qewaru/chatme) and [DotaTrack App](https://github.com/qewaru/dotatrack)
 
 - 🌱 I’m currently learning **Next.js, PHP**
 
