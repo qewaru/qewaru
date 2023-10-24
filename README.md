@@ -1,11 +1,13 @@
 <h1 align="center">Hello, I'm Arthur</h1>
 <h3 align="center">An enthusiast in web development</h3>
 
+- 💎 Checkout my [portfolio](https://arturshaicans.vercel.app) for more information
+
 - 🔭 I’m currently working on [ITKBroke](https://github.com/qewaru/itkbroke)
 
-- ✨ My finished projects are [ChatME](https://github.com/qewaru/chatme) and [DotaTrack App](https://github.com/qewaru/dotatrack)
+- ✨ My recent projects are [DotaTrack v2 App](https://github.com/qewaru/dota2track) and [ChatME](https://github.com/qewaru/chatme)
 
-- 🌱 I’m currently learning **Next.js, PHP**
+- 🌱 I’m currently learning **Next.js, TypeScript**
 
 - 📫 How to reach me **shaitsans16@gmail.com**
 
