@@ -13,6 +13,7 @@
   - Networking: Router/Switch configuring, VLANs, firewalls, VPN Servers, port forwarding, Pi-Hole
   - VMs: QEMU, Virt Manager, VirtualBox, Hyper-V
   - Cloud: AWS, Cloudflare, Vercel, Railway
+  - DBs: MongoDB, PostgreSQL, MySQL
   - Languages:
       - Primary: JavaScript, TypeScript, Python
       - Learning: Java, Bash/Powershell
