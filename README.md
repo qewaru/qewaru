@@ -3,7 +3,7 @@
 
 - My recent project is [Kotobe Messenger](https://kotobe.bebxsh.org),
 
-- Best project so far:
+- Best projects so far:
   - [Bebush Merch Shop](https://shop.bebxsh.org/))
   - [BebushOS scripts](https://github.com/qewaru/bebushos)
   - [Windows Server 2022 setup](https://github.com/qewaru/win-server-setup)
