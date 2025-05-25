@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Arthur</h1>
 <h3 align="center">An enthusiast in cybersecurity, software/script development, web development</h3>
 
-- My recent project is [Kotobe Messenger](https://kotobe.bebxsh.org),
+- My recent project is [Kotobe Messenger](https://kotobe.bebxsh.org)
 
 - Best projects so far:
   - [Bebush Merch Shop](https://shop.bebxsh.org/)
